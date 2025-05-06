@@ -60,6 +60,7 @@ const App = () => {
                     } />
                     
                     <Route path="/ContactForm" element={<ContactForm />} />
+                    <Route path="/editeContact" element={<EditContactForm />} />
                 </Routes>
             </div>
         </ContactProvider>

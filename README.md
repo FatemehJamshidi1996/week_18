@@ -1,12 +1,40 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Phone Book (دفترچه تلفن)
 
-Currently, two official plugins are available:
+## 📝 توضیحات
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+این پروژه یک دفترچه تلفن ساده و کاربردی برای مدیریت مخاطبین است.
 
-## Expanding the ESLint configuration
+## 🛠️ فناوری‌های استفاده شده
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- React Router DOM
+- react-hook-form
+- Yup
+
+
+## 📌 ویژگی‌ها
+
+- افزودن، ویرایش و حذف مخاطب
+- جستجوی مخاطبین
+- حذف گروهی مخاطبین
+- اعتبارسنجی فرم‌ها
+
+## 🧑‍💻 نحوه وارد کردن اطلاعات مخاطب
+
+1. وارد صفحه اصلی شوید روی دکمه "افزودن مخاطب" کلیک کنید.
+2. اطلاعات مخاطب را وارد کنید.
+3. روی دکمه "ثبت" کلیک کنید.
+
+## 🚀 نحوه اجرا
+
+1. پروژه را کلون یا دانلود کنید.
+2. وارد پوشه پروژه شوید.
+3. پکیج‌های مورد نیاز را نصب کنید.
+4. پروژه را اجرا کنید.
+
+## 🤝 مشارکت
+
+مشارکت و پیشنهادات شما بسیار ارزشمند است.
+
